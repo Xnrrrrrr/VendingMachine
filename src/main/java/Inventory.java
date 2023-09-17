@@ -75,7 +75,4 @@ public class Inventory {
     }
 
 
-
-    // Other methods to interact with the inventory, such as checking totals, restocking, etc.
-    // ...
 }
